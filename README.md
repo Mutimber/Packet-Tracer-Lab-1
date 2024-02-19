@@ -24,3 +24,10 @@
 - Examine traffic that crosses the network using NAT
   ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/e2c366e6-0462-4a39-9f6e-fb9f728304cc)
 *Fig 1: Complete set-up*
+
+#### 11.2.3 Configure DHCP on a Wireless Router
+#### Objectives
+- Connect 3 PCs to a wireless router
+- Change the DHCP setting to a specific network range
+- Configure the clients to obtain their address via DHCP
+![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/24fadec6-4fb1-4389-a303-c81ae0467853)
