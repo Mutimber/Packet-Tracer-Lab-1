@@ -1,5 +1,11 @@
 # Packet-Tracer-Labs
 ## 1. Networking Basics
+### 4.4.4 Configure a Wireless Router and Clients
+### Objectives
+- Part 1: Connect the Devices
+- Part 2: Configure the Wireless Router
+- Part 3: Configure IP Addressing and Test Connectivity
+  
 ### 8.1.3 Connect to a Web Server
 ### Objectives 
 - Observe how packets are sent across the internet using IP addresses
