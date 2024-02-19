@@ -31,3 +31,18 @@
 - Change the DHCP setting to a specific network range
 - Configure the clients to obtain their address via DHCP
 ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/24fadec6-4fb1-4389-a303-c81ae0467853)
+## 13.1.3 Identify MAC and IP Addresses
+### Objectives
+- Part 1: Gather PDU Information for a Local Network Communication
+  ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/3cde2773-9267-47b5-956a-bf9d1f88f972)
+  ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/4db6b2ba-d565-465c-80c5-9cb21aec1695)
+
+- Part 2: Gather PDU Information for a Remote Network Communication
+  ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/d002675f-565b-4e4a-a4b8-172bddf7c91e)
+  ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/16d04a76-5870-4e01-b706-c9a735646750)
+  ![image](https://github.com/Mutimber/Packet-Tracer-Lab-1/assets/113706552/1d2a4b1c-188e-49c9-b170-67ee369e1d59)
+
+
+
+  
+
